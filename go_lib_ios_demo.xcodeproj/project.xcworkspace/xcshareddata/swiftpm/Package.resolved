@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "go_lib_swift_package_demo",
+        "repositoryURL": "/Users/zhoukaiwen/GitHub/go_lib_swift_package_demo",
+        "state": {
+          "branch": "main",
+          "revision": "b1e97598bb38f66cba2219aaafd8cf52deb00bd9",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
